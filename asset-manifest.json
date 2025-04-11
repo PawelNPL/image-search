@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PawelNPL.github.io/image-search/static/css/main.8dafaf1c.css",
+    "main.js": "/PawelNPL.github.io/image-search/static/js/main.f4b0435c.js",
+    "static/js/453.70f980c5.chunk.js": "/PawelNPL.github.io/image-search/static/js/453.70f980c5.chunk.js",
+    "index.html": "/PawelNPL.github.io/image-search/index.html",
+    "main.8dafaf1c.css.map": "/PawelNPL.github.io/image-search/static/css/main.8dafaf1c.css.map",
+    "main.f4b0435c.js.map": "/PawelNPL.github.io/image-search/static/js/main.f4b0435c.js.map",
+    "453.70f980c5.chunk.js.map": "/PawelNPL.github.io/image-search/static/js/453.70f980c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8dafaf1c.css",
+    "static/js/main.f4b0435c.js"
+  ]
+}
