@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/PawelNPL/image-search/static/css/main.8dafaf1c.css",
-    "main.js": "/PawelNPL/image-search/static/js/main.2a5bfac8.js",
-    "static/js/453.70f980c5.chunk.js": "/PawelNPL/image-search/static/js/453.70f980c5.chunk.js",
-    "index.html": "/PawelNPL/image-search/index.html",
-    "main.8dafaf1c.css.map": "/PawelNPL/image-search/static/css/main.8dafaf1c.css.map",
-    "main.2a5bfac8.js.map": "/PawelNPL/image-search/static/js/main.2a5bfac8.js.map",
-    "453.70f980c5.chunk.js.map": "/PawelNPL/image-search/static/js/453.70f980c5.chunk.js.map"
+    "main.css": "/image-search/static/css/main.8dafaf1c.css",
+    "main.js": "/image-search/static/js/main.3d6adda9.js",
+    "static/js/453.70f980c5.chunk.js": "/image-search/static/js/453.70f980c5.chunk.js",
+    "index.html": "/image-search/index.html",
+    "main.8dafaf1c.css.map": "/image-search/static/css/main.8dafaf1c.css.map",
+    "main.3d6adda9.js.map": "/image-search/static/js/main.3d6adda9.js.map",
+    "453.70f980c5.chunk.js.map": "/image-search/static/js/453.70f980c5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8dafaf1c.css",
-    "static/js/main.2a5bfac8.js"
+    "static/js/main.3d6adda9.js"
   ]
 }
